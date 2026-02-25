@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Ayush Maurya<br>💻 Computer Science & AI Student<br>🏆 Competitive Programmer | 🚀 Future Systems Builder<br><br>Focused on mastering algorithms, building scalable products, and developing high-impact software.<br><br>🧠 Core Strengths<br>Data Structures & Algorithms<br>Competitive Programming<br>Backend Engineering<br>Scalable System Thinking<br><br>
+# 👋 Hi, I'm Ayush Maurya
+<br>💻 Computer Science & AI Student<br>🏆 Competitive Programmer | 🚀 Future Systems Builder<br><br>Focused on mastering algorithms, building scalable products, and developing high-impact software.<br><br>🧠 Core Strengths<br>Data Structures & Algorithms<br>Competitive Programming<br>Backend Engineering<br>Scalable System Thinking<br><br>
 
 
 ## 🌐 Socials:
