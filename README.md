@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush Maurya<br>💻 Computer Science & AI Student<br>🏆 Competitive Programmer | 🚀 Future Systems Builder<br><br>Focused on mastering algorithms, building scalable products, and developing high-impact software.<br><br>🧠 Core Strengths<br>Data Structures & Algorithms<br>Competitive Programming<br>Backend Engineering<br>Scalable System Thinking<br><br>🏆 Competitive Programming<br>⭐ 2★ on CodeChef<br>📈 1000+ Rating on Codeforces<br>Strong grasp of DSA fundamentals<br>Structured training toward higher rating tiers<br><br>Target: Expert (Codeforces) | 5★+ (CodeChef)<br><br>🚀 Builder Mindset<br>Beyond algorithms, I focus on:<br>Designing scalable backend systems<br>Building real-world full stack applications<br>Developing AI-driven solutions<br>Turning ideas into executable products<br>Long-term vision: Build technology that solves meaningful, large-scale problems.<br><br>📊 Current Focus<br>Advanced DSA (Java)<br>Rating growth in competitive programming<br>Backend architecture (Spring Boot)<br>Product-oriented project development
+👋 Hi, I'm Ayush Maurya<br>💻 Computer Science & AI Student<br>🏆 Competitive Programmer | 🚀 Future Systems Builder<br><br>Focused on mastering algorithms, building scalable products, and developing high-impact software.<br><br>🧠 Core Strengths<br>Data Structures & Algorithms<br>Competitive Programming<br>Backend Engineering<br>Scalable System Thinking<br><br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ayushthecoder2006/Ayushthecoder2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
